@@ -1,0 +1,86 @@
+# coffeescript1 Vincent Morales
+Per 5. Intro to computer science/ H.W
+speed 40
+moveto -150, -50
+rt 90
+pen black, 8
+fd 50
+lt 90
+rt 180, 50
+lt 90
+fd 100
+fd 50
+lt 90
+rt 180, 50
+lt 90
+fd 50
+lt 90
+fd 200
+lt 60, 50
+lt 30
+fd 400
+lt 30
+lt 60, 50
+fd 200
+fill gold
+pu()
+moveto 300, 50
+pen black, 5
+for [1..2]
+  rt 90
+  fd 450
+  rt 90
+  fd 100
+fill white
+pu()
+moveto 275, 50
+pen black, 5
+rt 180
+fd 100
+for [1..2]
+  lt 90
+  fd 100
+  lt 90
+  fd 100
+  rt 90
+  fd 100
+  rt 90
+  fd 100
+jumpto -50, -50
+dot gray, 85
+dot crimson, 50
+jumpto 200, -50
+dot gray, 85
+dot crimson, 50
+jumpto -137, -25
+box black, 30
+box lightblue, 25
+jumpto 285, -25
+box black, 30
+box lightblue, 25
+jumpto -340, -92
+rt 90
+pen black, 7
+fd 700
+jumpto -175, -73
+lt 180
+dot brown, 25
+pen brown, 5
+fd 50
+rt 30
+fd 30
+bk 30
+lt 60
+fd 30
+bk 30
+rt 30
+bk 20
+rt 90
+fd 20
+bk 40
+jumpto -240, -31
+label 'ME'
+jumpto 68, 2
+grow 5
+label 'LIFE'
+jumpto 1000, 1000
