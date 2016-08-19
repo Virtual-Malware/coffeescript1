@@ -1,0 +1,46 @@
+speed 20
+pen black, 7
+jumpto -300, -76
+fd 150
+rt 80, 60
+rt 80, 60
+rt 80, 60
+rt 80, 60
+rt 60, 60
+jumpto -206, -3
+rt 360, 60
+jumpto -70, -74
+lt 20
+fd 100
+rt 150, 40
+jumpto 15, -75
+lt 150
+fd 100
+rt 180, 40
+fd 100
+fill white
+jumpto 108, -75
+rt 180
+fd 200
+rt 90
+fd 270
+jumpto 108, -75
+fd 270
+lt 90
+fd 200
+fill yellow
+jumpto 119, -65
+fd 160
+jumpto 121, 11
+rt 90
+fd 50
+rt 90
+fd 70
+jumpto 187, 95
+fd 115
+lt 180, 40
+fd 115
+jumpto 283, 97
+rt 180
+fd 120
+lt 360, 40
