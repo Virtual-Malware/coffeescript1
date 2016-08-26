@@ -1,0 +1,256 @@
+speed Infinity
+jumpto -326, 223
+rt 90
+dot black, 15
+fd 20
+dot black, 15
+fd 20
+dot black, 15
+fd 20
+pen black, 6
+fd 15
+pu()
+fd 30
+dot black, 15
+fd 20
+dot black, 15
+fd 30
+pen black, 6
+fd 15
+pu()
+fd 20
+dot black, 15
+fd 15
+pen black, 6
+fd 15
+pu()
+fd 20
+dot black, 15
+fd 30
+dot black, 15
+fd 30
+pen black, 6
+fd 15
+pu()
+fd 20
+dot black, 15
+fd 30
+pen black, 6
+fd 15
+``
+jumpto -325,174
+pen black, 6
+fd 15
+pu()
+fd 13
+pen black, 6
+fd 15
+pu()
+fd 30
+pen black, 6
+fd 15
+pu()
+fd 13
+pen black, 6
+fd 15
+pu()
+fd 15
+pen black, 6
+fd 15
+pu()
+fd 30
+dot black,15
+fd 20
+pen black,6
+fd 15
+pu()
+fd 20
+dot black, 15
+fd 30
+dot black, 15
+fd 20
+pen black, 6
+fd 15
+pu()
+fd 30
+dot black,15
+fd 20
+pen black,6
+fd 15
+pu()
+fd 20
+dot black, 15
+fd 20
+dot black, 15
+fd 30
+dot black, 15
+fd 30
+dot black,15
+fd 20
+dot black,15
+fd 20
+dot black,15
+lt 90
+``
+jumpto -306,254
+grow 2
+label "V"
+jumpto -213,254
+label "I"
+jumpto -126,254
+label "C"
+jumpto -58,254
+label "E"
+jumpto -4,254
+label "N"
+jumpto 47,254
+label "T"
+jumpto -302,199
+label "M"
+jumpto -215,199
+label "O"
+jumpto -122,199
+label "R"
+jumpto -49,199
+label "A"
+jumpto 39,199
+label "L"
+jumpto 105,199
+label "E"
+jumpto 155,199
+label "S"
+
+rt 90 
+grow 0
+jumpto -325,123
+pen black, 6
+fd 15
+pu()
+fd 20
+dot black, 15
+fd 15
+pen black, 6
+fd 15
+pu()
+fd 20
+dot black, 15
+fd 30
+pen black,6
+fd 15
+pu()
+fd 20
+dot black, 15
+fd 20
+dot black, 15
+fd 30
+dot black,15
+fd 15 
+pen black,6 
+fd 15
+pu()
+fd 30
+dot black,15
+fd 20
+dot black,15
+fd 20
+dot black,15
+fd 30 
+dot black,15
+fd 20
+dot black,15
+fd 20
+dot black,15
+fd 30 
+pen black, 6
+fd 15
+pu()
+fd 13
+pen black, 6
+fd 15
+pu()
+fd 15
+pen black, 6
+fd 15
+pu()
+fd 30 
+dot black,15 
+fd 20
+dot black,15
+fd 20 
+pen black,6
+fd 15
+pu()
+fd 20
+dot black,15
+
+jumpto -325,71
+dot black,15 
+fd 20
+dot black,15
+fd 20
+pen black,6
+fd 15
+pu()
+fd 15
+pen black,6
+fd 15
+pu()
+fd 15
+pen black,6
+fd 15
+pu()
+fd 30
+pen black,6
+fd 15
+pu()
+fd 15
+pen black,6
+fd 15
+pu()
+fd 15
+pen black,6
+fd 15
+pu()
+fd 15
+pen black,6
+fd 15
+pu()
+fd 15
+pen black,6
+fd 15
+pu()
+fd 30
+dot black,15 
+fd 15
+pen black,6
+fd 15
+pu()
+fd 15
+pen black,6
+fd 15
+pu()
+fd 15
+pen black,6
+fd 15
+pu()
+fd 15
+pen black,6
+fd 15
+pu()
+fd 30
+pen black,6
+fd 15
+pu()
+fd 15
+pen black,6
+fd 15
+pu()
+fd 15
+pen black,6
+fd 15
+pu()
+fd 20
+dot black,15
+fd 20
+dot black,15
+fd 30
