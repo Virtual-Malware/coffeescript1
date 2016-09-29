@@ -1,0 +1,26 @@
+day = 'Tuesday'
+p = new Piano
+  lowest: "F,,"
+  keys: 36
+p.bk 100
+m = new Piano
+  lowest: "C"
+  keys: 36
+m.fd 100
+sync p, m
+
+b = """
+  [D_B,]/[D_B,]/[D_B,]/[D_B,]/
+  [D_B,]/[D_B,]/[D_B,]/[D_B,]/
+  [D_B,]/[C_B,]/[C_B,]/[C_B,]/
+  [C_B,]/[C_B,]/[C_B,]/[C_B,]/
+  """
+c = """
+  [_E_E,]3[GG,]Z/[FF,]3Z/
+  [_E_E,]3[GG,]/[FF,]4Z/
+  """
+say ' wake up nigga wake up, time to get this paper'
+if day is 'Monday'
+  say 'Make that money daddy'
+else
+  say 'Gang gang gang'
